@@ -1,1 +1,7 @@
-# 源码自动编译与运行【重建工程+源码编译+自动运行+结果比较】
+# THE Composition of program
+### web
+- 1. 1.html home.html
+### linux server
+- 1. server.js
+- 2. pre.sh 2.sh
+- 3. work.cpp

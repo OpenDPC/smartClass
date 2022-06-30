@@ -1,0 +1,3 @@
+g++ biginterger.cpp big_integer.cpp -include biginterger.h 
+jcl
+05
