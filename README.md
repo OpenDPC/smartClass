@@ -13,8 +13,8 @@ Class for project, and project for class
 # Rank of 2022:
 |rank|NO.|Team|bonus(￥)|project|  
 |----|---|----|---------|-------|
-|1|
-|2|
-|3| 
-|4|
-|5| 
+|1|2021211959|Tan Siyuan|2500|
+|2|2021211949|Du Chenze|1500|
+|3|2021211940|Wu Zhenyang|1000|
+|4|2021212001|Li Mengtao|600|
+|5|2021211969|Gu Jiayu|400|
