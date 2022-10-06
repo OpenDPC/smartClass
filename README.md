@@ -17,4 +17,4 @@ Class for project, and project for class
 |2|2021211949|Du Chengze|1500|AutomaticCompilation
 |3|2021211940|Wang Yucong|1000|AutomaticJudging
 |4|2021212001|Li Mengtao|600|AutomaticRecording
-|5|2021211969|Lu Jiangao|400|AutomaticRollCall
+|5|2021211969|Lu Jiangao|400|AutomaticEmoticon
