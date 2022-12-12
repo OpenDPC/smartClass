@@ -1,4 +1,4 @@
-# SmartClass
+# smartClass
 Class for project, and project for class
 
 # Rank of 2021:  
