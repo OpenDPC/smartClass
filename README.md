@@ -1,5 +1,5 @@
 # smartClass
-Class for project, and project for class
+Class for projects, and projects for class
 
 # Rank of 2021:  
 |rank|NO.|Team|bonus(￥)|project|  
