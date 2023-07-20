@@ -26,4 +26,4 @@ Class for projects, and projects for class
 |2|2022211695|Yang Sihang|1500|AutomaticRecording
 |3|2022211697|Han Yachen|1000|AutomaticCompilation
 |4|2022211716|Nv Ruohui|600|ProjectManagement
-|5|2022211649|Qi Xuan|400|CodeCompile
+|5|2022211649|Qi Xuan|400|CodeCompair
